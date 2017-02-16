@@ -2,8 +2,13 @@
 
 <head>
 <style>
-
+h {
+font-size: 20px
+color: #00BFFF;
+margin: 30px 10px 30px 0;
+}
 </style>
 </head>
 
 <h1> Welcome to our tribute to Dolly the Sheep! </h1>
+<p> We realized that Dolly the Sheep was an extraordinary sheep for she was no regular sheep - she had three mothers! </p>
